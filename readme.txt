@@ -1,5 +1,5 @@
 git is a version control system.
-git is free softwaer.
+git is free software.
 I'm learning git.
 4th line added to this file.
 
