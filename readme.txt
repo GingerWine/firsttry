@@ -5,4 +5,4 @@ I'm learning git.
 
 understand how stage works.
 create a new branch.
-it's quick & simple.
+it's quick and simple.
