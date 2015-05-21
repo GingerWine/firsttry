@@ -7,3 +7,4 @@ understand how stage works.
 create a new branch.
 it's quick and simple.
 Dev branch created.
+Merge default.
